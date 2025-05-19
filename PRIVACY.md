@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective Date: 19.05.2025
+Effective Date: 19 May 2025
 
 ## Summary
 
@@ -50,11 +50,8 @@ You have the right to request information about your data, but since we don’t 
 ## Contact
 
 If you need to get in touch, please contact:  
-**BambooSilver@proton.me**
-**4Silver**
-
-**justbitmeof@gmail.com**
-**cazzox_veloce**
+- **Owner**  BambooSilver@proton.me (`4Silver` on Discord)  
+- **Developer**  justbitmeof@gmail.com (`cazzox_veloce` on Discord)
 
 ---
 
