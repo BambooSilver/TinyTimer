@@ -20,4 +20,9 @@ By using the TinyTimer Discord bot (the "Bot"), you agree to the following terms
 6. **Disclaimer**  
    This Bot is not affiliated with or endorsed by Discord. Use of the Bot also falls under Discord’s [Terms of Service](https://discord.com/terms) and [Privacy Policy](https://discord.com/privacy).
 
+7. **Minimum Age Requirement**  
+   Use of the Bot is restricted to users who meet the minimum age required by Discord's Terms of Service in their country of residence. Typically, this is 13 years old, but may be higher depending on local laws (e.g. 16 in parts of the EU).
+
+   By using the Bot, you confirm that you meet this age requirement.
+
 **If you do not agree with these terms, do not use the Bot.**
