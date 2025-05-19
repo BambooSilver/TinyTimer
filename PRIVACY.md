@@ -19,7 +19,7 @@ The bot processes the following information **temporarily and only during comman
 - Timezone (either inferred or user-provided)
 
 This information is only used to format a nickname like:
-{username} | {CountryCode} {LocalTime}
+`{username} | {CountryCode} {LocalTime}`
 
 
 ---
@@ -43,14 +43,14 @@ This information is only used to format a nickname like:
 
 Although no personal data is stored, if you have any concerns or questions about how the bot works, feel free to contact the developer.
 
-You have the right to request information about your data, but since we don’t store any, there’s generally nothing to retrieve or delete.
+Under GDPR, you have the right to request access to, correction of, or deletion of your personal data. However, as we do not store any personal data, these rights are not applicable in practice.
 
 ---
 
 ## Contact
 
 If you need to get in touch, please contact:  
-- **Owner**  BambooSilver@proton.me (`4Silver` on Discord)  
+- **Owner**  BambooSilver@proton.me (`4silver` on Discord)  
 - **Developer**  justbitmeof@gmail.com (`cazzox_veloce` on Discord)
 
 ---
