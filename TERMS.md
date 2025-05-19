@@ -3,7 +3,7 @@
 By using the TinyTimer Discord bot (the "Bot"), you agree to the following terms:
 
 1. **Service Description**  
-   The Bot updates user nicknames in Discord servers to include their username, country code, and local time, based on input provided by the user.
+   The Bot updates user nicknames in Discord servers to include their username, country code, and local time, based on input provided by the user or server admin.
 
 2. **No Guarantees**  
    The Bot is provided "as is" without warranty of any kind. We make no guarantees of uptime, performance, or availability.
@@ -20,4 +20,4 @@ By using the TinyTimer Discord bot (the "Bot"), you agree to the following terms
 6. **Disclaimer**  
    This Bot is not affiliated with or endorsed by Discord. Use of the Bot also falls under Discord’s [Terms of Service](https://discord.com/terms) and [Privacy Policy](https://discord.com/privacy).
 
-If you do not agree with these terms, do not use the Bot.
+**If you do not agree with these terms, do not use the Bot.**
