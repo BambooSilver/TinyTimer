@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TinyTimer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57e88df07aaf09763fb9e6827856904e8e3580ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b853ffea00e72f21d548d5e85c882e1adff8da2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TinyTimer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TinyTimer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

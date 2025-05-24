@@ -59,8 +59,7 @@
               "RelativeToolTip": "Commands\\Modules.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T10:11:38.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T10:11:38.249Z"
             },
             {
               "$type": "Document",
@@ -72,21 +71,19 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-24T10:00:51.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T10:00:51.999Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TinyTimer",
+              "Title": "TinyTimer.csproj",
               "DocumentMoniker": "C:\\Users\\pierr\\Documents\\TinyTimer\\TinyTimer.csproj",
               "RelativeDocumentMoniker": "TinyTimer.csproj",
               "ToolTip": "C:\\Users\\pierr\\Documents\\TinyTimer\\TinyTimer.csproj",
               "RelativeToolTip": "TinyTimer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-24T09:55:46.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T09:55:46.853Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T09:47:32.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T09:47:32.734Z"
             }
           ]
         }
